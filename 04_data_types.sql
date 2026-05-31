@@ -17,4 +17,4 @@ VALUES(
 
 SELECT * FROM basics.products_basic;
 
-SELECT * FROM basics.products_basic WHERE is_active is true;
+-- SELECT * FROM basics.products_basic WHERE is_active is true;
